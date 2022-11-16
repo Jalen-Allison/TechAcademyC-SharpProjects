@@ -19,7 +19,7 @@ namespace DailyReportAssignment
             string yourCourse = Console.ReadLine();
 
             Console.WriteLine("What page number?");
-            string pageNumber = Console.ReadLine();
+            int pageNumber = Convert.ToInt32(Console.ReadLine());
 
             string userInput;
             Console.WriteLine("Do you need help with anything? Please answer true or false");
@@ -30,7 +30,7 @@ namespace DailyReportAssignment
             bool isHelp = true;
             bool isNoHelp = false;
 
-            Console.ReadLine();
+            //Console.ReadLine();
 
             Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
             string review = Console.ReadLine();
@@ -39,7 +39,7 @@ namespace DailyReportAssignment
             string feedback = Console.ReadLine();
 
             Console.WriteLine("How many hours did you study today?");
-            string hours = Console.ReadLine();
+            int hours = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
             string end = Console.ReadLine();
