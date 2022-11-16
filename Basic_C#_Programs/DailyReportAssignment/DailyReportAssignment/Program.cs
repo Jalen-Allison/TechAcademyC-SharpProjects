@@ -15,11 +15,11 @@ namespace DailyReportAssignment
             Console.WriteLine("What is your name?");
             string yourName = Console.ReadLine();
 
-            Console.WriteLine("What course are you on?");
+            Console.WriteLine("What course are you on?");   //using string data type
             string yourCourse = Console.ReadLine();
 
             Console.WriteLine("What page number?");
-            int pageNumber = Convert.ToInt32(Console.ReadLine());
+            int pageNumber = Convert.ToInt32(Console.ReadLine());   //using integer data type
 
             string userInput;
             Console.WriteLine("Do you need help with anything? Please answer true or false");
@@ -28,9 +28,9 @@ namespace DailyReportAssignment
             bool userInputBoolean = Convert.ToBoolean(userInput);
 
             bool isHelp = true;
-            bool isNoHelp = false;
+            bool isNoHelp = false;      //Using boolean data type
 
-            //Console.ReadLine();
+           
 
             Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
             string review = Console.ReadLine();
