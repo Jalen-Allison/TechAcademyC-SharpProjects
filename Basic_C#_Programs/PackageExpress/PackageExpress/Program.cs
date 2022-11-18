@@ -41,7 +41,7 @@ namespace PackageExpress
                 }
                 else if (total <= 50)
                 {
-                    Console.WriteLine("Your estimated total for shipping this package is: $" + price + ".00" + "Thank You!");
+                    Console.WriteLine("Your estimated total for shipping this package is: $" + price + ".00" + " Thank You!");
                     Console.ReadLine();
 
 
