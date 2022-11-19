@@ -1,0 +1,7 @@
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\WhileAndDoWhileStatements\WhileAndDoWhileStatements\bin\Debug\WhileAndDoWhileStatements.exe.config
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\WhileAndDoWhileStatements\WhileAndDoWhileStatements\bin\Debug\WhileAndDoWhileStatements.exe
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\WhileAndDoWhileStatements\WhileAndDoWhileStatements\bin\Debug\WhileAndDoWhileStatements.pdb
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\WhileAndDoWhileStatements\WhileAndDoWhileStatements\obj\Debug\WhileAndDoWhileStatements.csproj.AssemblyReference.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\WhileAndDoWhileStatements\WhileAndDoWhileStatements\obj\Debug\WhileAndDoWhileStatements.csproj.CoreCompileInputs.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\WhileAndDoWhileStatements\WhileAndDoWhileStatements\obj\Debug\WhileAndDoWhileStatements.exe
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\WhileAndDoWhileStatements\WhileAndDoWhileStatements\obj\Debug\WhileAndDoWhileStatements.pdb
