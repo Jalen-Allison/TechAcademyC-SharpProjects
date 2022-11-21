@@ -6,19 +6,50 @@ using System.Collections.Generic;
 
     class Program
     {
-        static void Main(string[] args)
-        {
-           
-            int[] nArray = { 21, 22, 55, 11, 88 };
-            Console.WriteLine("Select an int index of the array; (0-4) ");
-        
+    static void Main(string[] args)
+    {
 
-            int index = int.Parse(Console.ReadLine());
+        int[] nArray = { 21, 22, 55, 11, 88 };    
+        Console.WriteLine("Select an int index of the array; (0-4) ");
+
+
+        int index = int.Parse(Console.ReadLine());         // allows the program to search for specific numbers in the index
         if (index < 5)
         {
+            Console.WriteLine("value is: " + nArray[index]);        //displays the correlating number in array if number choosen was between 0-4 
+            Console.ReadLine();
+        }
+        else
+        {
+            Console.WriteLine("This is not an option.");          // if number that is not less than 5 is picked. This message is shown 
+        }
 
 
-            Console.WriteLine("value is: " + nArray[index]);
+        string[] names = { "Bob", "Joey", "Arty" };
+        Console.WriteLine("Select a string index of the array; (0-2) ");
+
+
+        int nIndex = int.Parse(Console.ReadLine());
+        if (nIndex < 2)
+        {
+            Console.WriteLine("value is: " + names[nIndex]);
+            Console.ReadLine();
+        }
+        else
+        { 
+            Console.WriteLine("This is not an option.");
+        }
+
+        List<string> sList = new List<string>();
+            sList.Add("Dog");
+            sList.Add("Cat");
+            Console.WriteLine("Select an String index of the list; (0-1) ");
+        
+
+        int sIndex = int.Parse(Console.ReadLine());
+        if (sIndex < 1)
+        {
+            Console.WriteLine("value is: " + sList[sIndex]);
             Console.ReadLine();
         }
         else
@@ -26,31 +57,9 @@ using System.Collections.Generic;
             Console.WriteLine("This is not an option.");
         }
 
-            string[] names = { "Bob", "Joey", "Arty" };
-            Console.WriteLine("Select a string index of the array; (0-2) ");
-        //int number2 = Convert.ToInt32(Console.ReadLine());
-        //bool isArray2 = number2 < 2;
-        //Console.WriteLine("That is not an option");
-
-        int nIndex = int.Parse(Console.ReadLine());
-            Console.WriteLine("value is: " + names[nIndex]);
-            Console.ReadLine();
-
-            List<string> sList = new List<string>();
-            sList.Add("Dog");
-            sList.Add("Cat");
-            Console.WriteLine("Select an String index of the list; (0-1) ");
-        //int name1 = Convert.ToInt32(Console.ReadLine());
-        //bool isArray3 = name1 < 1;
-        //Console.WriteLine("That is not an option");
-
-        int sIndex = int.Parse(Console.ReadLine());
-            Console.WriteLine("value is: " + sList[sIndex]);
-            Console.ReadLine();
 
 
-      
 
-        }
     }
+}
 
