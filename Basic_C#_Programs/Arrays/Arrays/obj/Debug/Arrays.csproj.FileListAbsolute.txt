@@ -1,0 +1,7 @@
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\Arrays\Arrays\obj\Debug\Arrays.pdb
