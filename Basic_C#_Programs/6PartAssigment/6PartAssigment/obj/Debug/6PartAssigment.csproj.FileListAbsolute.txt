@@ -1,0 +1,7 @@
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\6PartAssigment\6PartAssigment\bin\Debug\6PartAssigment.exe.config
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\6PartAssigment\6PartAssigment\bin\Debug\6PartAssigment.exe
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\6PartAssigment\6PartAssigment\bin\Debug\6PartAssigment.pdb
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\6PartAssigment\6PartAssigment\obj\Debug\6PartAssigment.csproj.AssemblyReference.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\6PartAssigment\6PartAssigment\obj\Debug\6PartAssigment.csproj.CoreCompileInputs.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\6PartAssigment\6PartAssigment\obj\Debug\6PartAssigment.exe
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\6PartAssigment\6PartAssigment\obj\Debug\6PartAssigment.pdb
