@@ -54,15 +54,15 @@ namespace _6PartAssigment
             //Assingment Part 3
             //Comparison operators
 
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 10; i++)       // stops loop once number is bigger than 9
             {
-                Console.WriteLine(i + "");
+                Console.WriteLine(i + "");         //prints numbers 
             }
             Console.ReadLine();
 
-            for (int i = 0; i <= 5; i++)
+            for (int i = 0; i <= 5; i++)             //stops loop once number is = to or smaller than 5
             {
-                Console.WriteLine(i + "");
+                Console.WriteLine(i + "");          // prints numbers
             }
             Console.ReadLine();
 
