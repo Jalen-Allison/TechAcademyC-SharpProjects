@@ -1,0 +1,7 @@
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\ClassAndMethodAssignment\ClassAndMethodAssignment\bin\Debug\ClassAndMethodAssignment.exe.config
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\ClassAndMethodAssignment\ClassAndMethodAssignment\bin\Debug\ClassAndMethodAssignment.exe
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\ClassAndMethodAssignment\ClassAndMethodAssignment\bin\Debug\ClassAndMethodAssignment.pdb
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\ClassAndMethodAssignment\ClassAndMethodAssignment\obj\Debug\ClassAndMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\ClassAndMethodAssignment\ClassAndMethodAssignment\obj\Debug\ClassAndMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\ClassAndMethodAssignment\ClassAndMethodAssignment\obj\Debug\ClassAndMethodAssignment.exe
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\ClassAndMethodAssignment\ClassAndMethodAssignment\obj\Debug\ClassAndMethodAssignment.pdb
