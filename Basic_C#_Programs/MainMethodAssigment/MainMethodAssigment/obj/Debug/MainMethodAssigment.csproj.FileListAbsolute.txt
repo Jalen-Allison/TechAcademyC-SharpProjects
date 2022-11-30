@@ -1,0 +1,14 @@
+C:\Users\jalen\source\repos\MainMethodAssigment\MainMethodAssigment\bin\Debug\MainMethodAssigment.exe.config
+C:\Users\jalen\source\repos\MainMethodAssigment\MainMethodAssigment\bin\Debug\MainMethodAssigment.exe
+C:\Users\jalen\source\repos\MainMethodAssigment\MainMethodAssigment\bin\Debug\MainMethodAssigment.pdb
+C:\Users\jalen\source\repos\MainMethodAssigment\MainMethodAssigment\obj\Debug\MainMethodAssigment.csproj.AssemblyReference.cache
+C:\Users\jalen\source\repos\MainMethodAssigment\MainMethodAssigment\obj\Debug\MainMethodAssigment.csproj.CoreCompileInputs.cache
+C:\Users\jalen\source\repos\MainMethodAssigment\MainMethodAssigment\obj\Debug\MainMethodAssigment.exe
+C:\Users\jalen\source\repos\MainMethodAssigment\MainMethodAssigment\obj\Debug\MainMethodAssigment.pdb
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\MainMethodAssigment\MainMethodAssigment\bin\Debug\MainMethodAssigment.exe.config
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\MainMethodAssigment\MainMethodAssigment\bin\Debug\MainMethodAssigment.exe
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\MainMethodAssigment\MainMethodAssigment\bin\Debug\MainMethodAssigment.pdb
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\MainMethodAssigment\MainMethodAssigment\obj\Debug\MainMethodAssigment.csproj.AssemblyReference.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\MainMethodAssigment\MainMethodAssigment\obj\Debug\MainMethodAssigment.csproj.CoreCompileInputs.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\MainMethodAssigment\MainMethodAssigment\obj\Debug\MainMethodAssigment.exe
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\MainMethodAssigment\MainMethodAssigment\obj\Debug\MainMethodAssigment.pdb
