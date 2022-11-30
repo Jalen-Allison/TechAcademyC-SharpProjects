@@ -1,0 +1,7 @@
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.exe.config
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.exe
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.pdb
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.exe
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.pdb
