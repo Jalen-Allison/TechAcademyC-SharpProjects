@@ -1,0 +1,7 @@
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\ClassSubAssignment\ClassSubAssignment\bin\Debug\ClassSubAssignment.exe.config
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\ClassSubAssignment\ClassSubAssignment\bin\Debug\ClassSubAssignment.exe
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\ClassSubAssignment\ClassSubAssignment\bin\Debug\ClassSubAssignment.pdb
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\ClassSubAssignment\ClassSubAssignment\obj\Debug\ClassSubAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\ClassSubAssignment\ClassSubAssignment\obj\Debug\ClassSubAssignment.exe
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\ClassSubAssignment\ClassSubAssignment\obj\Debug\ClassSubAssignment.pdb
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\ClassSubAssignment\ClassSubAssignment\obj\Debug\ClassSubAssignment.csproj.AssemblyReference.cache
