@@ -32,5 +32,23 @@ namespace TwentyOne
 
         }
         public List<Card> Cards { get; set; }
+
+        public void Shuffle(int times = 1) 
+        {
+            for (int i = 0; i < times; i++)
+            {
+                List<Card> TempList = new List<Card>();
+                Random random = new Random();
+
+                while (Cards.Count > 0) // adds and deletes cards until there are no cards left
+                {
+                    int randomIndex = random.Next(0, Cards.Count); // take minValue and mxValue and returns a random integer that is within a specificied range
+                    TempList.Add(Cards[randomIndex]); //add that number to a temporary list 
+                    Cards.RemoveAt(randomIndex); // deletes from list of cards 
+                }
+                Cards = TempList; 
+            }
+
+        }
     }
 }
