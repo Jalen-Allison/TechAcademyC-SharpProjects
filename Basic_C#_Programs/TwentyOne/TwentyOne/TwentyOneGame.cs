@@ -8,9 +8,15 @@ namespace TwentyOne
 {
     public class TwentyOneGame : Game  //inheriting the class "Game"
     {
-        public void Play()
+        //Play method
+        public override void Play() // override allows you to implement Play since Game is abstract, tells computer we will define this method  
         {
             throw new NotImplementedException();
+        }
+        public override void ListPlayers()
+        {
+            Console.WriteLine("21 Players:");
+            base.ListPlayers();
         }
     }
 }
