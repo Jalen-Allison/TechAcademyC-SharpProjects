@@ -19,6 +19,7 @@ namespace ClassSubAssignment
         {
             Console.WriteLine("This is method 2");
             Result = num1 / num2;
+            Result = num1 / num2;
         }
 
 
