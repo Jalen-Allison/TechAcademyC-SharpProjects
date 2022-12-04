@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class TwentyOneGame : Game  //inheriting the class "Game"
+    public class TwentyOneGame : Game, IWalkAway  //inheriting the class "Game"  //interface = "IWalkAway" allows multiple inheritances or interfaces
     {
         //Play method
         public override void Play() // override allows you to implement Play since Game is abstract, tells computer we will define this method  
@@ -17,6 +17,10 @@ namespace TwentyOne
         {
             Console.WriteLine("21 Players:");
             base.ListPlayers();
+        }
+        public void WalkAway(Player player) 
+        {
+            throw new NotImplementedException();
         }
     }
 }
