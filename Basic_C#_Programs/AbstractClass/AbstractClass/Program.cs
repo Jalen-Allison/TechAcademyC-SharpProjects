@@ -12,8 +12,11 @@ namespace AbstractClass
         {
             Employee employee = new Employee() { firstName = "Sample", lastName = "Student" };
             employee.SayName();  //Calls the SayName() method on the object. 
-            employee.Quit();
+            IQuittable quittable = new Employee(); // Employee is inheriting from the IQuittable class using polymorphism
+            quittable.Quit();
             Console.ReadLine();
+
+            
 
             
         }
