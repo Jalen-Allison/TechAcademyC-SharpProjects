@@ -11,24 +11,17 @@ namespace TwentyOne
         public Deck() //constructor (a method thats called as soon as an object is created 
         {
             Cards = new List<Card>(); //instantiate its property (Cards) as an empty list of cards
-            List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
-            List<string> Faces = new List<string>()
-            {
-                "Two", "Three", "Four", "Five", "Six", "Seven",
-                "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"
-            };
 
-            foreach (string face in Faces)
-            {                                           //loops through each face card 4 times since theres four different suits 
-                foreach (string suit in Suits) 
+            for (int i = 0; i < 13; i++)  // 13 faces
+            {
+                for (int j = 0; j < 4; j++)  // 4 faces | Going to loop 52 times "13*4 = 52" 52 cards in a deck
                 {
-                    Card card = new Card(); //during each loop, it creates a card 
-                    card.Suit = suit; //assign the suit property 
-                    card.Face = face; //assign the face property
-                    Cards.Add(card);  //adds new card that was created into the card list at the top 
+                    Card card = new Card(); //creates a new card each time
+                    card.Face = (Face)i;
+                    card.Suit = (Suit)j;
+                    Cards.Add(card);
                 }
             }
-
 
         }
         public List<Card> Cards { get; set; }
@@ -52,3 +45,24 @@ namespace TwentyOne
         }
     }
 }
+
+
+
+
+//List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
+//List<string> Faces = new List<string>()
+//{
+//    "Two", "Three", "Four", "Five", "Six", "Seven",
+//    "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"
+//};
+
+//foreach (string face in Faces)
+//{                                           //loops through each face card 4 times since theres four different suits 
+//    //foreach (string suit in Suits) 
+//    //{
+//    //    Card card = new Card(); //during each loop, it creates a card 
+//    //    card.Suit = suit; //assign the suit property 
+//    //    card.Face = face; //assign the face property
+//    //    Cards.Add(card);  //adds new card that was created into the card list at the top 
+//    //}
+//}
