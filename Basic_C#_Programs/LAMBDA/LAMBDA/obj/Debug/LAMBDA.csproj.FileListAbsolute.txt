@@ -1,0 +1,7 @@
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\LAMBDA\LAMBDA\bin\Debug\LAMBDA.exe.config
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\LAMBDA\LAMBDA\bin\Debug\LAMBDA.exe
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\LAMBDA\LAMBDA\bin\Debug\LAMBDA.pdb
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\LAMBDA\LAMBDA\obj\Debug\LAMBDA.csproj.AssemblyReference.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\LAMBDA\LAMBDA\obj\Debug\LAMBDA.csproj.CoreCompileInputs.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\LAMBDA\LAMBDA\obj\Debug\LAMBDA.exe
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\LAMBDA\LAMBDA\obj\Debug\LAMBDA.pdb
