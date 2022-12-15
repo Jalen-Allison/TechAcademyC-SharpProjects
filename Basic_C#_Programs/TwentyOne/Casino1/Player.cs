@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino1
 {
     public class Player
     {
+        public Player(string name) : this(name, 100)   //constructor that inherits from previous constructor.  //its assigning name to name and if they dont enter a starting balance it automatically gives them a 100
+        { 
+        }
         public Player(string name, int beginningBalance)  //a constructor 
         {
             Hand = new List<Card>(); //creates empty list 
@@ -19,6 +22,7 @@ namespace TwentyOne
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
+        public Guid Id { get; set; }
         public bool Stay { get; set; }
 
 

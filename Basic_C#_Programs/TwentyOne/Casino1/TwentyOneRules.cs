@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino1.TwentyOne
 {
     public class TwentyOneRules
     {                                        //naming convention in private class is an _(underscore)

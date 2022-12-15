@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino1
 {
     public struct Card // just a design doesnt give it value. Need to make an onject that is modeled after this class
     {

@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+
+namespace Casino1.Interfaces
 {
     interface IWalkAway //supports multiple inheritances
     {

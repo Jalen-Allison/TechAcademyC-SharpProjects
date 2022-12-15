@@ -1,0 +1,6 @@
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\TwentyOne\Casino1\bin\Debug\Casino1.dll
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\TwentyOne\Casino1\bin\Debug\Casino1.pdb
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\TwentyOne\Casino1\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\TwentyOne\Casino1\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\TwentyOne\Casino1\obj\Debug\Casino1.dll
+C:\Users\jalen\Desktop\TechAcademyC-SharpProjects\Basic_C#_Programs\TwentyOne\Casino1\obj\Debug\Casino1.pdb

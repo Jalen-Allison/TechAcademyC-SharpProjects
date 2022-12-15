@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
-{
+namespace Casino1 {   
+
     public abstract class Game //abstract class can nver be instantiated
     {
         private List<Player> _players = new List<Player>();
