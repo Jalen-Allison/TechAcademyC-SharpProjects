@@ -11,13 +11,19 @@ namespace TwentyOne
         {
             const string Casino1Name = "Grand Hotel and Casino"; 
 
-            Guid identifier = Guid.NewGuid();  // a globally unique identifier
+           // Guid identifier = Guid.NewGuid();  // a globally unique identifier
 
             Console.WriteLine("Welcome to the {0} Let's start by telling me your name.", Casino1Name);
             string playerName = Console.ReadLine();
 
-            Console.WriteLine("How much money did you bring today?");
-            int bank = Convert.ToInt32(Console.ReadLine());
+            bool validAnswer = false;
+            int bank = 0;
+            while (!validAnswer)
+            {
+                Console.WriteLine("How much money did you bring today?");
+                validAnswer = int.TryParse(Console.ReadLine(), out bank); //cast it from string to int.
+                if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals.");
+            }
 
             Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playerName);
             string answer = Console.ReadLine().ToLower();
@@ -35,7 +41,23 @@ namespace TwentyOne
                 while (player.isActivelyPlaying && player.Balance > 0)               //checks if the player wants to keep playing and do they have enough money to keep playing. If those two conditions are met, the while loop will continue
                                                                                      //if they say no then it skips the if and jumps to "bye for now" stataement 
                 {
-                    game.Play();
+                    try
+                    {
+                        game.Play();
+                    }
+                    catch (FraudException)
+                    {
+                        Console.WriteLine("Security! Kick this person out.");
+                        Console.ReadLine();
+                        return;
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("An eroor occured. Please contact your system admin");
+                        Console.ReadLine();
+                        return;
+                    }
+                    
                 }
                 game -= player;
                 Console.WriteLine("Thank you for playing!");
