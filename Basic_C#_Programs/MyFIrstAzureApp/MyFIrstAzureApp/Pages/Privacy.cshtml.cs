@@ -14,8 +14,7 @@ namespace MyFIrstAzureApp.Pages
 
         public void OnGet()
         {
-            string dateTime = DateTime.Now.ToShortDateString();
-            ViewData["TimeStamp"] = dateTime;
+            ViewData["TimeStamp"] = DateTime.Now;
         }
     }
 }
